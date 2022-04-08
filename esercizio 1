@@ -4,10 +4,11 @@
 <body> 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.square 
+.square {
   <height: 50px;
   width: 50px;
   background-color: #555;>
+  }
 </style>
 <h2>Square CSS</h2>
 <div class="square"></div>
@@ -15,6 +16,14 @@
 <img="logo.png">
 <p> taking booleaners a to b </P>
 </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: #008000;
+}
+</style>
 <button type="button"> prenota </button> 
 <button type="button"> termina prenotazioneb</button>
 <button type="button"> accendi luci </button>
