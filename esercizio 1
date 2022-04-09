@@ -1,7 +1,9 @@
 <head>
-<background-image: url("background.jpg"), url("paper.gif")>
 </head>
+<title>
+</title>
 <body> 
+<background-image: url("background.jpg"), url("paper.gif")>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .square {
@@ -12,10 +14,8 @@
 </style>
 <h2>Square CSS</h2>
 <div class="square"></div>
-<title>
 <img="logo.png">
 <p> taking booleaners a to b </P>
-</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .rectangle {
